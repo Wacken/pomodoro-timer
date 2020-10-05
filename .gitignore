@@ -1,0 +1,13 @@
+*.json
+/.cider-repl-history
+/test/tic_tac_to/.cider-repl-history
+/target/
+/.nrepl-port
+/README.md
+/src/tic_tac_to/.cider-repl-history
+/.hgignore
+/.lein-failures
+/LICENSE
+/doc/
+/CHANGELOG.md
+/test/pomodore_timer/.cider-repl-history
